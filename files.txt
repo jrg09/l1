@@ -1,0 +1,22 @@
+total 1488
+-rw-r--r--   1 jorge  staff       0 Nov 30 09:56 files.txt
+-rw-r--r--   1 jorge  staff     259 Nov 30 09:56 http-file-server.js
+-rw-r--r--   1 jorge  staff     354 Nov 29 19:56 time-server.js
+-rw-r--r--   1 jorge  staff     132 Nov 29 19:43 package.json
+-rw-r--r--   1 jorge  staff   16548 Nov 29 19:43 package-lock.json
+drwxr-xr-x  27 jorge  staff     864 Nov 29 19:43 node_modules
+-rw-r--r--   1 jorge  staff     456 Nov 29 14:21 fetch.js
+-rw-r--r--   1 jorge  staff     478 Nov 29 11:25 getr.js
+-rw-r--r--   1 jorge  staff     621 Nov 29 11:24 juggling-async.js
+-rw-r--r--   1 jorge  staff     381 Nov 29 11:15 mymodule.js
+-rw-r--r--   1 jorge  staff    2714 Nov 28 19:19 checkTM.js
+-rw-r--r--   1 jorge  staff     828 Nov 28 18:23 http-client.js
+-rw-r--r--   1 jorge  staff     482 Nov 27 13:32 http-collect.js
+-rw-r--r--@  1 jorge  staff  643578 Nov 26 21:06 response.txt.html
+-rw-r--r--   1 jorge  staff     223 Nov 26 20:53 make-it-modular.js
+-rw-r--r--   1 jorge  staff     361 Nov 26 20:25 filtered-ls.js
+-rw-r--r--   1 jorge  staff     200 Nov 26 20:05 my-first-async-io.js
+-rw-r--r--   1 jorge  staff     147 Nov 26 20:01 my-first-io.js
+-rw-r--r--   1 jorge  staff   27145 Nov 26 18:21 procc.txt
+-rw-r--r--   1 jorge  staff      27 Nov 26 18:15 hello.js
+-rw-r--r--   1 jorge  staff     238 Nov 26 18:13 args.js

@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "async": "^3.2.4",
+    "body": "^5.1.0",
+    "cheerio": "^1.0.0-rc.12",
+    "needle": "^3.2.0",
+    "strftime": "^0.10.1"
+  }
+}
